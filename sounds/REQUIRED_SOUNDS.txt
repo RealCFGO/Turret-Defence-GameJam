@@ -1,0 +1,5 @@
+shoot.wav - Sound when player fires a bullet
+hit.wav - Sound when bullet hits an enemy
+kill.wav - Sound when an enemy is killed
+levelup.wav - Sound when player levels up
+backgroundmusic.wav - Background music (will loop)
