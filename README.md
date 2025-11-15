@@ -12,8 +12,9 @@ Control a stationary turret in the center of the screen, aiming with the mouse a
 - **Enemy Variety**: Three geometric shapes with different stats
 - **Progression System**: Gain EXP from kills, level up, and choose from random stat upgrades
 - **Difficulty Scaling**: Enemy spawn rate, HP, and speed increase over time
-- **Minimalist Art**: Simple colored shapes and flat backgrounds
+- **Minimalic**: Simple colored shapes and flat backgrounds
 - **Boss fight**: At level 30, you will fight a boss.
+- **Modules**: Drastically change the core game features as you level up
 
 ### Upgrades
 
@@ -23,6 +24,9 @@ When leveling up, choose from random upgrades:
 - Higher bullet speed
 - More max HP
 - Improved EXP gain
+
+### Modules 
+Modules are intenteded to drastically change your progression toward level 30. A heavy upside, for a heavy downside.
 
 ## Installation
 
